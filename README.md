@@ -1,16 +1,18 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Krittika-Tiwari&color=1D9E75)
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="480"/>
 </div>
 
 <br/>
 
-## Hi, I'm Krittika 👩‍💻
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&pause=1000&color=1D9E75&width=500&lines=Software+Developer;React+%7C+Next.js+%7C+Node.js+%7C+Spring+Boot;Open+to+internships+%26+full-time+roles;Let's+build+something+together!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&pause=1000&color=1D9E75&center=true&width=500&lines=Hi+I'm+Krittika+👩‍💻;Software+Developer;React+%7C+Next.js+%7C+Node.js+%7C+Spring+Boot;Open+to+internships+%26+full-time+roles)](https://git.io/typing-svg)
 
-Software developer with experience in React, Next.js, Node.js, and backend services.
+</div>
+
+Software developer with experience in React, Next.js, Node.js, and backend services. Based in Delhi, India.
 
 ![SDE Intern @ MachanX](https://img.shields.io/badge/SDE_Intern-MachanX-1D9E75?style=flat-square)
 ![Open to Work](https://img.shields.io/badge/Status-Open_to_Work-EF9F27?style=flat-square)
