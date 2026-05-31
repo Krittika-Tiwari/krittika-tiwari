@@ -1,6 +1,14 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Krittika-Tiwari&color=1D9E75)
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
+</div>
+
+<br/>
+
 ## Hi, I'm Krittika 👩‍💻
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&pause=1000&color=1D9E75&width=500&lines=Software+Developer;React+%7C+Next.js+%7C+Node.js+%7C+Spring+Boot;Open+to+internships+%26+full-time+roles;Let's+build+something+together!)](https://git.io/typing-svg)
 
 Software developer with experience in React, Next.js, Node.js, and backend services.
 
